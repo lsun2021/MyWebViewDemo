@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyWebViewDemo</string>
+    <string name="btn_click">点击弹窗</string>
+</resources>
